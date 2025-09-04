@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eric Nguyen!
 👩🏻‍💻 AI/ML enthusiast, full-stack web & mobile engineer <br/>
-👩🏻‍🎓 Studied [Computer Science] at the University of Massachusetts, Amherst<br/>
+👩🏻‍🎓 Studied Computer Science at the University of Massachusetts, Amherst<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/datnguy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanhdat.2107.en@gmail.com) 
