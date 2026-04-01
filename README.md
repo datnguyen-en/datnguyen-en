@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Eric Nguyen!
-👩🏻‍💻 AI/ML enthusiast, full-stack web & mobile engineer <br/>
+👩🏻‍💻 AI/ML enthusiast, Software Engineer <br/>
 👩🏻‍🎓 Studied Computer Science at the University of Massachusetts, Amherst<br/>
 
 ## 🌐 Socials:
